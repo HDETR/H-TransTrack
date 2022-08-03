@@ -38,11 +38,6 @@ python3 track_tools/convert_mot_to_coco.py
 ```
 
 3. Pre-train on crowdhuman
-```
-sh track_exps/crowdhuman_train.sh
-python3 track_tools/crowdhuman_model_to_mot.py
-```
-The pre-trained model is available [crowdhuman_final.pth](https://drive.google.com/drive/folders/1DjPL8xWoXDASrxgsA3O06EspJRdUXFQ-?usp=sharing).
 
 4. Train H-TransTrack
 
