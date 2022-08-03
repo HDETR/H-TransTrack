@@ -2,10 +2,10 @@
 
 ## MODEL ZOO
 ### MOT17 Validation
-Model | MOTA% | IDF1% | FN |  
-:---:|:---:|:---:|:---:|
-TransTrack | 67.1 | 70.3 | 15820 | 
-H-TransTrack | 68.7 | 68.3 | 13657 |
+Model | MOTA% | IDF1% | FN | Checkpoint |
+:---:|:---:|:---:|:---:|:---:|
+TransTrack | 67.1 | 70.3 | 15820 | [model](https://github.com/HDETR/H-TransTrack/releases/download/v1.0.0/671mot17_crowdhuman_mot17.pth)| 
+H-TransTrack | 68.7 | 68.3 | 13657 | [model](https://github.com/HDETR/H-TransTrack/releases/download/v1.0.0/690htranstrack_val.pth)|
 
 Model | MOTA% | IDF1% | FN |
 :---:|:---:|:---:|:---:|
