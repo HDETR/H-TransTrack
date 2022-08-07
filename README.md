@@ -47,3 +47,13 @@ python3 track_tools/convert_mot_to_coco.py
 ```
 python3 track_tools/txt2video.py
 ```
+
+## Citation
+```bibtex
+@article{jia2022detrs,
+  title={DETRs with Hybrid Matching},
+  author={Jia, Ding and Yuan, Yuhui and He, Haodi and Wu, Xiaopei and Yu, Haojun and Lin, Weihong and Sun, Lei and Zhang, Chao and Hu, Han},
+  journal={arXiv preprint arXiv:2207.13080},
+  year={2022}
+}
+```
