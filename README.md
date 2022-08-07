@@ -75,4 +75,11 @@ python3 track_tools/txt2video.py
   journal={arXiv preprint arXiv:2207.13080},
   year={2022}
 }
+
+@article{sun2020transtrack,
+  title={Transtrack: Multiple object tracking with transformer},
+  author={Sun, Peize and Cao, Jinkun and Jiang, Yi and Zhang, Rufeng and Xie, Enze and Yuan, Zehuan and Wang, Changhu and Luo, Ping},
+  journal={arXiv preprint arXiv:2012.15460},
+  year={2020}
+}
 ```
