@@ -1,5 +1,17 @@
 # H-TransTrack
 
+## Modified files
+
+### To support hybrid branch
+
+* models/deformable_detrtrack_train_hybrid_branch.py
+
+* models/deformable_transformer_track_hybrid_branch.py
+
+* engine_track.py
+
+* main_track.py
+
 ## MODEL ZOO
 ### MOT17 Validation
 Model | MOTA% | IDF1% | FN | Checkpoint |
@@ -39,9 +51,15 @@ python3 track_tools/convert_mot_to_coco.py
 
 3. Pre-train on crowdhuman
 
+sh configs/<path_to_config_file>.sh
+
 4. Train H-TransTrack
 
+sh configs/<path_to_config_file>.sh
+
 5. Evaluate TransTrack
+
+sh configs/<path_to_config_file>.sh
 
 6. Visualize TransTrack
 ```
