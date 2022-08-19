@@ -17,13 +17,15 @@
 Model | MOTA% | IDF1% | FN | Checkpoint |
 :---:|:---:|:---:|:---:|:---:|
 TransTrack | 67.1 | 70.3 | 15820 | [model](https://github.com/HDETR/H-TransTrack/releases/download/v1.0.0/671mot17_crowdhuman_mot17.pth)| 
+TransTrack (Our repro.) | 67.1 | 68.1 | 15680 | [model]()| 
 H-TransTrack | 68.7 | 68.3 | 13657 | [model](https://github.com/HDETR/H-TransTrack/releases/download/v1.0.0/690htranstrack_val.pth)|
 
 ### MOT17 Test
-Model | MOTA% | IDF1% | FN |
-:---:|:---:|:---:|:---:|
-TransTrack | 74.5 | 63.9| 112137 |
-H-TransTrack | 75.7 | 64.4 | 91155 |
+Model | MOTA% | IDF1% | FN | Checkpoint |
+:---:|:---:|:---:|:---:|:--:|
+TransTrack | 74.5 | 63.9| 112137 | [model]() |
+TransTrack (Our repro.) | 74.5 | 63.9| 112137 |[model]() |
+H-TransTrack | 75.7 | 64.4 | 91155 |[model]() |
 
 #### Requirements
 - Linux, CUDA>=9.2, GCC>=5.4
