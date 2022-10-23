@@ -25,7 +25,7 @@ Model | MOTA% | IDF1% | FN | Checkpoint |
 :---:|:---:|:---:|:---:|:--:|
 TransTrack | 74.5 | 63.9| 112137 | [model]() |
 TransTrack (Our repro.) | 74.5 | 63.9| 112137 |[model]() |
-H-TransTrack | 75.7 | 64.4 | 91155 |[model]() |
+H-TransTrack | 75.7 | 64.4 | 91155 |[model](https://github.com/HDETR/H-TransTrack/releases/download/v1.0.0/757htranstrack_test.pth) |
 
 #### Requirements
 - Linux, CUDA>=9.2, GCC>=5.4
