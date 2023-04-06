@@ -13,6 +13,9 @@
 * main_track.py
 
 ## MODEL ZOO
+
+[pretrained-model]([model](https://github.com/HDETR/H-TransTrack/releases/download/v1.0.1/crowdhuman_hybrid_branch.pth)
+
 ### MOT17 Validation
 Model | MOTA% | IDF1% | FN | Checkpoint |
 :---:|:---:|:---:|:---:|:---:|
